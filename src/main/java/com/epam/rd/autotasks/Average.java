@@ -2,7 +2,7 @@ package com.epam.rd.autotasks;
 
 import java.util.Scanner;
 
-public class avg {
+public class Average {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
          int sum = 0;
